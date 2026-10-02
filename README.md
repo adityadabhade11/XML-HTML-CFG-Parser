@@ -199,24 +199,15 @@ Conclusion
 
 The project demonstrates how Context-Free Grammar and stack-based processing can be applied to validate nested XML/HTML structures. The implementation provides a practical demonstration of parsing, tag matching, error detection, and Pushdown Automata concepts through a graphical interface.
 
-## Screenshots
+![Main GUI](Screenshots/main_gui.png)
 
-### Main Parser Interface
+![Valid Parsing](Screenshots/valid_parsing.png)
 
-![Main GUI](screenshots/main_gui.png)
+![Invalid Parsing](Screenshots/invalid_parsing.png)
 
-### Valid Document Parsing
+![Parser Statistics](Screenshots/statistics.png)
 
-![Valid Parsing](screenshots/valid_parsing.png)
-
-### Invalid Document Detection
-
-![Invalid Parsing](screenshots/invalid_parsing.png)
-
-### Parser Statistics
-
-![Parser Statistics](screenshots/statistics.png)
-
+![Test Results](Screenshots/test_results.png)
 ### Automatic Test Results
 
 ![Test Results](screenshots/test_results.png)
